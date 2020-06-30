@@ -1,7 +1,7 @@
 
-# Windows Shadow leaking
+# Meltdown KVA Shadow Leak
 
-This repository contains the Windows Meltdown exploits described in the [Meltdown Reloaded: Breaking Windows KASLR by Leaking KVA Shadow Mappings](https://labs.bluefrostsecurity.de/meltdown-reloaded-breaking-windows-kaslr), which can be used to leak the PML4 table address and the "ntoskrnl.exe" base address in the latest "Windows 10" versions (RS7 and 20H1).
+This repository contains the Windows Meltdown exploits described in the blog post [Meltdown Reloaded: Breaking Windows KASLR by Leaking KVA Shadow Mappings](https://labs.bluefrostsecurity.de/meltdown-reloaded-breaking-windows-kaslr), which can be used to leak the PML4 table address and the "ntoskrnl.exe" base address in the latest "Windows 10" versions (RS7 and 20H1).
 
 ## Sources compilation
 
