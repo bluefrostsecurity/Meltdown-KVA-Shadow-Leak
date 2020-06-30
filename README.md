@@ -1,5 +1,5 @@
 
-#Windows Shadow leaking
+# Windows Shadow leaking
 
 This repository contains the Windows Meltdown exploits described in the [Windows Shadow leaking (via Meltdown) blogpost](https://labs.bluefrostsecurity.de/blog/2020/06/30/windows-shadow-leaking-via-meltdown/), which can be used to leak the PML4 table address and the "ntoskrnl.exe" base address in the latest "Windows 10" versions (RS7 and 20H1).
 
